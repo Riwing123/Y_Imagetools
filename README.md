@@ -1,5 +1,6 @@
 # Y的图片工具箱
-支持拼图和简单相框的原图输出
+发现好用的拼图软件大都不支持高像素输出，所以vibecoding了此工具
+支持拼图和支持参数条简单相框的原图输出
 <img width="1501" height="1094" alt="image" src="https://github.com/user-attachments/assets/c90f2dcc-a3f1-47de-832a-9233994b35d7" />
 模块1 边框及参数条功能
 <img width="2559" height="1531" alt="image" src="https://github.com/user-attachments/assets/de7fa49a-3ee0-4866-97e8-96514d8f9e35" />
